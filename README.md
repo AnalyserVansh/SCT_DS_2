@@ -1,1 +1,1 @@
-Analyze a raw data of titanic ship and transform it into the insightful way on the basis of family relation, age, and P-class, how many people were alive and belons to which categories. With the help of python (Pandas & Numpy) 
+Analyze a raw data of titanic ship and transform it into the insightful way on the basis of family relation, age, and P-class, how many people were alive and belongs to which categories. With the help of python (Pandas & Numpy) 
